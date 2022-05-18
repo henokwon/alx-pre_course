@@ -1,3 +1,6 @@
+git clone https://github.com/henokwon/alx-pre_course.git  
+git config --global user.email "genokwon@gmail.com"
+git config --global user.name "henokwon"          
 git add .
 git commit -m "Hot fix"
 git push 
